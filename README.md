@@ -6,7 +6,7 @@ Fiz um sistema bancário simples, mas que coloca em prática todos os conceitos 
 In English
 ================================================================================================
 Pleasure,
-My name is Vitor Lamoya and I am a Computer Science student
+My name is Vitor Lamoya and I'm a Computer Science student
 
 I made a simple banking system that puts all the basic concepts of Python into practice.
 
